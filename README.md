@@ -1,4 +1,4 @@
-# fantastic-funghi
+# Fantastic-Funghi
 A brief insight into the world of fantastic funghi
 
 Here is a project I carried out on a mushroom dataset, with the aim of classifying mushrooms into Edible and Poisonous classes.
